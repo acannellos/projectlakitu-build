@@ -1,6 +1,6 @@
-# projecjtlakitu
+# project lakitu
 
-latest working Unity project
+latest working Unity project as of: 2/3/2023
 
 <br>
 
